@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="35px" height="35px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip32">
+      <path d="M 634.5 364  C 624.7875 364  617 356.2125  617 346.5  L 617 346.5  C 617 336.7875  624.7875 329  634.5 329  L 634.5 329  C 644.2125 329  652 336.7875  652 346.5  L 652 346.5  C 652 356.2125  644.2125 364  634.5 364  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -617 -329 )">
+    <path d="M 617 329  L 652 329  L 652 364  L 617 364  L 617 329  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip32)" />
+    <path d="M 619 331  L 650 331  L 650 362  L 619 362  L 619 331  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip32)" />
+    <path d="M 637.825 339.5  C 636.355 339.5  635.2 338.345  635.2 336.875  C 635.2 335.405  636.355 334.25  637.825 334.25  C 639.295 334.25  640.45 335.405  640.45 336.875  C 640.45 338.345  639.295 339.5  637.825 339.5  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip32)" />
+    <path d="M 620 361  L 620 345.05  L 627.25 337.8  L 637.4 343.6  L 643.2 342.15  L 649 343.6  L 649 361  L 620 361  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip32)" />
+  </g>
+</svg>
