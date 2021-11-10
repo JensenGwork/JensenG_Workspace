@@ -5,6 +5,6 @@
 <p>&emsp;&emsp;【医美SaaS】拼团玩法:<a href="https://jensengwork.github.io/JensenG_Workspace/【医美SaaS】拼团玩法/start.html" target ="_blank">&emsp;跳转</a> </p> 
 <p>&emsp;&emsp;【电商SaaS】引流核销商品:<a href="https://jensengwork.github.io/JensenG_Workspace/【电商SaaS】引流核销商品/start.html" target ="_blank">&emsp;跳转</a> </p> 
 <p>&emsp;&emsp;【电商SaaS】邀请有礼：<a href="https://jensengwork.github.io/JensenG_Workspace/【电商SaaS】邀请有礼/start.html" target ="_blank">&emsp;跳转</a> </p> 
-<p> </p> 
+<p>
 <p><h2>个人简历：</h2></p> 
 <img src="https://jensengwork.github.io/JensenG_Workspace/个人简历/产品经理_葛正轩_18229268363.Png" width="1000" />
